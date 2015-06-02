@@ -1,0 +1,4 @@
+Getting started with Git Ready with GitHub.
+
+Will use this file to verify all the Git commands.
+
